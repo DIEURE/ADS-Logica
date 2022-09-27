@@ -5,7 +5,7 @@ Este exercício deve ser implementado utilizando o comando while.
 '''
 
 soma = 0
-c=0
+c = 0
 while c < 50:
     c = c + 1
     soma = soma + c
