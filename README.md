@@ -1,2 +1,2 @@
 #ADS-LOGICA
-Listas de Exercicios de Curso de da graduação em Analise e Desenvolvimento de Sistema no Ipog.
+Listas de Exercicios do Curso de graduação em Analise e Desenvolvimento de Sistema no Ipog.
