@@ -17,7 +17,7 @@ DATA: 03/09/2022
 """
 import math
 
-n = int(input("Digite o valor para o n-esimo elemento"))
+n = int(input("Digite o n-esimo numero: "))
 
 fn = int(1/math.sqrt(5)* (((1+math.sqrt(5))/2)**n - ((1-math.sqrt(5))/2)**n))
 #1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377
